@@ -7,21 +7,8 @@
 #include <stdio.h>
 int main(){
     printf("git project start");
-    printf("git project start");
-    printf("git project start");
-
-
-    
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("git project start");
-    printf("hello\n");
-    printf(" ????? ??? ?????!");
+    printf(" 유천동 주민 화이팅!");
+    printf("화이팅~!~!~\n");
     return 0;
 }
 
